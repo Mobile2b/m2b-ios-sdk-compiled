@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = 'm2b-ios-sdk-compiled'
-  s.version = '2.0.33'
+  s.version = '2.0.34'
   s.summary = 'Provides lots of useful classes used by Mobile2b internally and several adapter classes to be used with the Mobile2b Cloud.'
   s.license = 'Unspecified'
   s.authors = [{"Robert Vennemann"=>"vennemann@mobile2b.de"}, {"Joachim Kurz"=>"kurz@mobile2b.de"}]
