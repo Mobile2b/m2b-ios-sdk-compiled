@@ -10,5 +10,8 @@
 #define Mobile2bSDK_Mobile2bSDK_h
 
 #import "M2BToolboxes.h"
+#import "M2BLoginAndSignUp.h"
+#import "M2BForms.h"
+#import "M2BParsing.h"
 
 #endif
