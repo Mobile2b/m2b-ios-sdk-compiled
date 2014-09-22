@@ -15,7 +15,6 @@
 #import "M2BInputValidation.h"
 #import "M2BPushNotificationHelper.h"
 #import "M2BCoreDataToolbox.h"
-#import "M2BUtils.h"
 #import "M2BImagesAndVideosToolbox.h"
 
 #endif
